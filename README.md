@@ -18,7 +18,7 @@ An interactive, production-grade Computer Vision dashboard built with **PyTorch*
 
 VisionGuard AI serves as an automated dual-stage vision pipeline: evaluating image quality (blur and exposure) before performing real-time object detection, region-of-interest (ROI) tensor cropping, and frame-by-frame video processing.
 
-🚀 **Live Web Application:** [Insert Your Streamlit App Link Here]
+🚀 **Live Web Application:** https://visionguard-kp6ppf6xbag7yvnl6kgtvc.streamlit.app/
 
 ---
 
